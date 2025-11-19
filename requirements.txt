@@ -1,0 +1,8 @@
+flask
+tensorflow==2.12.0
+mediapipe
+opencv-python-headless
+numpy
+pandas
+pillow
+python-enchant
